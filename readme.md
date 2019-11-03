@@ -2,7 +2,7 @@
 
 ## Download
 
-Please download our dataset from the following link: https://drive.google.com/open?id=1K31JGj0LNVQvd4oHFqcKkaSK36CQVAhA
+Please download our dataset from the following link (4.3GB): https://drive.google.com/open?id=1K31JGj0LNVQvd4oHFqcKkaSK36CQVAhA
 
 ## Summary
 
