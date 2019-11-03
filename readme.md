@@ -2,9 +2,8 @@
 
 ## Download
 
-To get access to our dataset, please first fill in a permission request form as follows:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzeI5UgbRN-8qVfWQgElA2s5A2UbFDaFSSYv5IAlWUXTvQQA/viewform?embedded=true" width="640" height="936" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+To get access to our dataset, please first fill in a permission request form using the following link:
+https://forms.gle/DsYnn84BtVBJi2bz9
 
 ## Summary
 
