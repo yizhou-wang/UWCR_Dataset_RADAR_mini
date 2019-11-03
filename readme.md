@@ -2,7 +2,9 @@
 
 ## Download
 
-Please download our dataset from the following link (4.3GB): https://drive.google.com/open?id=1K31JGj0LNVQvd4oHFqcKkaSK36CQVAhA
+To get access to our dataset, please first fill in a permission request form as follows:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzeI5UgbRN-8qVfWQgElA2s5A2UbFDaFSSYv5IAlWUXTvQQA/viewform?embedded=true" width="640" height="936" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Summary
 
