@@ -1,9 +1,12 @@
 # UWCR Dataset - RADAR MINI
 
+UWCR RaDAR mini dataset is created by ECE at the University of Washington and CMMB Vision. 
+Please acknowledge the dataset source and provide a copy of the paper/report if you use our dataset.
+
 ## Download
 
 To get access to our dataset, please first fill in a permission request form using the following link:
-https://forms.gle/DsYnn84BtVBJi2bz9
+https://forms.gle/DsYnn84BtVBJi2bz9. We will send the download link through email after approval.
 
 ## Summary
 
@@ -25,6 +28,13 @@ The dataset stucture is shown below.
 
 For each data sequence, RaDAR data are in `radar` folder with `*.bin` format. 
 Metadata annotations are stored in `*.csv` format. 
+
+## Data Collection
+
+Our dataset is collected using our self-build sensor platform shown below.
+
+![](https://github.com/yizhou-wang/UWCR_Dataset_RADAR_mini/blob/master/images/datacol_vehicle.jpeg | width=100)
+![](https://github.com/yizhou-wang/UWCR_Dataset_RADAR_mini/blob/master/images/datacol_sensors.jpeg | width=100)
 
 ## Usages
 
