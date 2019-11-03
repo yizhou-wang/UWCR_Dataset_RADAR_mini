@@ -33,8 +33,8 @@ Metadata annotations are stored in `*.csv` format.
 
 Our dataset is collected using our self-build sensor platform shown below.
 
-![](https://github.com/yizhou-wang/UWCR_Dataset_RADAR_mini/blob/master/images/datacol_vehicle.jpeg | width=100)
-![](https://github.com/yizhou-wang/UWCR_Dataset_RADAR_mini/blob/master/images/datacol_sensors.jpeg | width=100)
+![vehicle](https://github.com/yizhou-wang/UWCR_Dataset_RADAR_mini/blob/master/images/datacol_vehicle.jpeg | width=100)
+![sensors](https://github.com/yizhou-wang/UWCR_Dataset_RADAR_mini/blob/master/images/datacol_sensors.jpeg | width=100)
 
 ## Usages
 
