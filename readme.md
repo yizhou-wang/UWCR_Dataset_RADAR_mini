@@ -34,9 +34,9 @@ Metadata annotations are stored in `*.csv` format.
 Our dataset is collected using our self-build sensor platform shown below.
 
 
-![vehicle](images/datacol_vehicle.jpeg | with=100)
+![vehicle](images/datacol_vehicle.jpeg)
 
-![sensors](images/datacol_sensors.jpeg | with=100)
+![sensors](images/datacol_sensors.jpeg)
 
 ## Usages
 
